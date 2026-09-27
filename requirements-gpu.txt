@@ -1,0 +1,4 @@
+# GPU Accelerated Inference Stack for DeepSeek-R1 + Qwen Draft
+vllm>=0.6.3
+torch>=2.2.0
+triton>=2.2.0
