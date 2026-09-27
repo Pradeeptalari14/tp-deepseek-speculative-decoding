@@ -1,0 +1,12 @@
+{
+  "name": "@pradeeptalari/tp-deepseek-speculative-decoding",
+  "version": "1.0.0",
+  "description": "DeepSeek-R1 Speculative Decoding & Reasoning Studio",
+  "main": "index.js",
+  "scripts": {
+    "validate": "bash scripts/validate.sh"
+  },
+  "keywords": ["deepseek-r1", "speculative-decoding", "vllm", "qwen-coder", "reasoning", "manim", "llm-serving"],
+  "author": "Pradeep Talari",
+  "license": "MIT"
+}
